@@ -1,6 +1,6 @@
 # [Group] _aks safeguards_
 
-Manage Deployment Safeguards
+Manage Safeguards
 
 ## Commands
 
@@ -8,13 +8,13 @@ Manage Deployment Safeguards
 : Enable Deployment Safeguards for a Managed Cluster
 
 - [delete](/Commands/aks/safeguards/_delete.md)
-: Disable Deployment Safeguards for a Managed Cluster
+: Delete DeploymentSafeguards
 
 - [list](/Commands/aks/safeguards/_list.md)
 : List DeploymentSafeguards by parent resource
 
 - [show](/Commands/aks/safeguards/_show.md)
-: Show Deployment Safeguards Configuration for a Managed Cluster
+: Get a deployment safeguard by name
 
 - [update](/Commands/aks/safeguards/_update.md)
-: Update Deployment Safeguards configuration for a Managed Cluster
+: Update a deploymentSafeguard

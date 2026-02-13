@@ -1,8 +1,8 @@
 # [Group] _aks_
 
-Azure Kubernetes Service
+Manage Aks
 
 ## Subgroups
 
 - [safeguards](/Commands/aks/safeguards/readme.md)
-: Manage Deployment Safeguards
+: Manage Safeguards
